@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MaizeWall
+comment0.text=\n\ Write\ a\ description\ of\ class\ MaizeWall\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MaizeWall()
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ \n
+comment3.params=
+comment3.target=int\ getXSize()
+comment3.text=\n\ Get\ the\ x\ size\n
+comment4.params=newXSize
+comment4.target=void\ setXSize(int)
+comment4.text=\n\ Set\ the\ x\ size\n
+comment5.params=
+comment5.target=int\ getYSize()
+comment5.text=\n\ Get\ the\ y\ size\n
+comment6.params=newYSize
+comment6.target=void\ setYSize(int)
+comment6.text=\n\ Set\ the\ y\ size\n
+numComments=7

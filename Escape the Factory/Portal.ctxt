@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Portal
+comment0.text=\n\ Write\ a\ description\ of\ class\ Portal\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Portal()
+comment1.text=\n\ Default\ constructor\n
+comment2.params=isActive\ inGoToWorld\ rotation
+comment2.target=Portal(boolean,\ java.lang.Class,\ int)
+comment2.text=\n\ Main\ constructor\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Acting\n
+comment4.params=
+comment4.target=void\ warp()
+comment4.text=\n\ Warp\ function\ checks\ if\ someone\ is\ on/in\ portal\ and\ warps\ them\n
+numComments=5

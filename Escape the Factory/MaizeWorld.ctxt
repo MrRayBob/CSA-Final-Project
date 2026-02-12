@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MaizeWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MaizWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MaizeWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MaizWorld.\n\ \n
+comment2.params=
+comment2.target=void\ createActors()
+comment2.text=\n\ Create\ actors\n
+comment3.params=
+comment3.target=void\ preparePath()
+comment3.text=\n\ Prepare\ and\ render\ maize\ path\n
+comment4.params=
+comment4.target=void\ setupMaize()
+comment4.text=\n\ chose\ map\n
+numComments=5

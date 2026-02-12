@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ Write\ a\ description\ of\ class\ Button\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=text\ w
+comment1.target=Button(java.lang.String,\ java.lang.Class)
+comment1.text=\n\ Constructor\ that\ adds\ the\ ability\ to\ go\ to\ a\ world\n
+comment2.params=text\ fontSize\ textColor\ backgroundColor\ w
+comment2.target=Button(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ java.lang.Class)
+comment2.text=\n\ More\ complex\ button\ constructor\n
+comment3.params=text\ fontSize\ textColor\ backgroundColor\ w\ path
+comment3.target=Button(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ java.lang.Class,\ java.lang.Runnable)
+comment3.text=\n\ button\ constructor\ than\ allows\ you\ to\ pass\ a\ function\ to\ run\ when\ pressed\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment5.params=
+comment5.target=void\ switchWorlds()
+comment5.text=\n\ Switch\ to\ the\ new\ world\ when\ the\ button\ is\ pressed\n
+numComments=6

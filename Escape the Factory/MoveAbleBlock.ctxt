@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MoveAbleBlock
+comment0.text=\n\ Write\ a\ description\ of\ class\ MoveAbleBlock\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y
+comment1.target=MoveAbleBlock(int,\ int)
+comment1.text=\n\ Overrided\ constructor\ that\ sets\ up\ image\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ MoveAbleBlock\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ interact()
+comment3.text=\n\ Interact\ allows\ the\ player\ to\ push\ the\ block\ around\n
+comment4.params=person
+comment4.target=void\ moveAround(Player)
+comment4.text=\n\ Move\ around\ moves\ the\ block\ based\ on\ the\ inputs\ and\ player\n
+numComments=5

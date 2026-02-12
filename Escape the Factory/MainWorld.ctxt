@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MainWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MainWorld()
+comment1.text=\n\ Default\ constuctor\n
+comment2.params=
+comment2.target=void\ createActors()
+comment2.text=\n\ Construct\ actors\n
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BlockMover
+comment0.text=\n\ Write\ a\ description\ of\ class\ BlockMover\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=BlockMover()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BlockMover.\n\ \n
+comment2.params=
+comment2.target=void\ createActors()
+comment2.text=\n\ Create\ actors\n
+comment3.params=
+comment3.target=void\ createBlocks()
+comment3.text=\n\ Make\ all\ the\ blocks\n
+comment4.params=
+comment4.target=void\ placeBlocks()
+comment4.text=\n\ Put\ all\ the\ blocks\n
+numComments=5

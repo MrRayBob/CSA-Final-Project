@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=endWorldPortal
+comment0.text=\n\ Write\ a\ description\ of\ class\ endWorldPortal\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=rotation
+comment1.target=endWorldPortal(int)
+comment1.text=\n\ Default\ constructor\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Acting\n
+comment3.params=
+comment3.target=void\ warp()
+comment3.text=\n\ Warp\ function\ checks\ if\ someone\ is\ on/in\ portal\ and\ warps\ them\n
+numComments=4

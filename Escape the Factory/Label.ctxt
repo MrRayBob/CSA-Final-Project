@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\n\ Write\ a\ description\ of\ class\ Label\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=text
+comment1.target=Label(java.lang.String)
+comment1.text=\n\ Default\ label\ constructor\n
+comment2.params=text\ mode
+comment2.target=Label(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Constructor\ for\ mode\ variable\n
+comment3.params=text\ fontSize\ textColor\ backgroundColor
+comment3.target=Label(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment3.text=\n\ Real\ constructor\ that\ makes\ with\ arguments\n
+comment4.params=str
+comment4.target=void\ setText(java.lang.String)
+comment4.text=\n\ Set\ the\ text\n
+comment5.params=
+comment5.target=void\ updateImage()
+comment5.text=\n\ Update\ the\ image\ being\ shown\ to\ match\ the\ variables\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\n\ Act\ -\ do\ whatever\ the\ Label\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment7.params=
+comment7.target=greenfoot.GreenfootImage\ getImage()
+comment7.text=\n\ Get\ imagge\n
+numComments=8
